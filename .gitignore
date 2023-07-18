@@ -1,0 +1,14 @@
+# Virtual environment
+
+venv/*
+# Visual Studio Code
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Environment file
+.env
+
+models/*
+!models/paste-models-here
